@@ -6,3 +6,4 @@ getPrice = function(){
   let voitSummast = num1-totalValue;
   document.getElementById("winn").value = voitSummast.toFixed(2);
   document.getElementById("total").value = totalValue.toFixed(2);
+}
