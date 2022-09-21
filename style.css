@@ -1,0 +1,44 @@
+*{
+  background-color: lightgrey;
+  border-radius: 10px;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+.summa{
+  text-align: center;
+}
+h2{
+  text-align: center;
+
+}
+h3{
+  text-align: center;
+  text-decoration: underline;
+  
+ 
+}
+#price, #discount, #winn, #total{
+  width: 75px;
+  height: 25px;
+ background-color: white;
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ text-align: center;
+}
+.btn{
+  background-color: red;
+  width: 75px;
+  height: 25px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+p{
+  text-align: center;
+  text-decoration: underline;
+}
